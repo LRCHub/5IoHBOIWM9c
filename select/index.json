@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Enigmatic Feeling",
+  "base_artist": "凛として時雨",
+  "createdAt": "2026-03-08T22:11:22.782450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/01_Enigmatic_Feeling_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling (2015 mix / remastered at METROPOLIS)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/02_Enigmatic_Feeling_(2015_mix___remastered_at_METROPOLIS)_凛として時雨.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling (2015 mix)",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/03_Enigmatic_Feeling_(2015_mix)_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": true,
+      "path": "select/04_Enigmatic_Feeling_Ling_Tosite_Sigure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/05_Enigmatic_Feeling_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": true,
+      "path": "select/06_Enigmatic_Feeling_Ling_Tosite_Sigure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling (2015 mix)",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/07_Enigmatic_Feeling_(2015_mix)_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/08_Enigmatic_Feeling_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling - Remixed by 中野雅之(BOOM BOOM SATELLITES)",
+      "artist": "中野雅之(BOOM BOOM SATELLITES)",
+      "has_synced": false,
+      "path": "select/09_Enigmatic_Feeling_-_Remixed_by_中野雅之(BOOM_BOOM_SATELLITES)_中野雅之(BOOM_BOOM_SATELLITES).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/10_Enigmatic_Feeling_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(01)  Enigmatic Feeling",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": true,
+      "path": "select/11_(01)_Enigmatic_Feeling_Ling_Tosite_Sigure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(03)Enigmatic Feeling (TV edit)",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": false,
+      "path": "select/12_(03)Enigmatic_Feeling_(TV_edit)_Ling_Tosite_Sigure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Enigmatic Feeling",
+      "artist": "Ling Toshite Shigure",
+      "has_synced": true,
+      "path": "select/13_Enigmatic_Feeling_Ling_Toshite_Shigure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enigmatic Feeling",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_Enigmatic_Feeling_凛として時雨.txt"
+    }
+  ]
+}
