@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Enigmatic Feeling",
   "base_artist": "凛として時雨",
-  "createdAt": "2026-03-08T22:11:22.782450Z",
+  "createdAt": "2026-03-25T06:35:43.277441Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "凛として時雨",
       "has_synced": false,
       "path": "select/pl_01_Enigmatic_Feeling_凛として時雨.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Enigmatic Feeling",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/localdb_01_Enigmatic_Feeling_凛として時雨.lrc",
+      "repo_name": "5IoHBOIWM9c"
     }
   ]
 }
